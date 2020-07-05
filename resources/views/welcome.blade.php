@@ -22,7 +22,7 @@
             </div>
         </div>
     @else
-        <div class="center jumbotron">
+       <div class="center jumbotron">
             <div class="text-center">
                 <h1>Welcome to the Microposts</h1>
                 {{-- ユーザ登録ページへのリンク --}}
